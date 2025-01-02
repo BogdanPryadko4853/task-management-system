@@ -51,7 +51,7 @@
 1.  **Клонирование репозитория:**
 
     ```bash
-    git clone <ссылка на ваш репозиторий>
+    git clone https://github.com/BogdanPryadko4853/task-management-system
     cd taskmanagementsystem
     ```
 
